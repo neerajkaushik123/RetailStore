@@ -65,7 +65,7 @@ namespace RetailStore.Tests
         }
 
         [TestMethod]
-        public void TestIfEmployeeDiscount()
+        public void TestEmployeeDiscount()
         {
 
             var orderMgm = new OrderManagement(_repository);
